@@ -1,0 +1,28 @@
+{
+	"nombre":"Giancarlo",
+	"apellido":"Corzo",
+	"hobbies":[
+		"Full Stack Developer",
+		"gian@laboratoria.la"
+		],
+	"mascota":{
+		"tipo":"perro",
+		"nombre":"peluchin",
+		"edad":"15 años"
+
+	},
+	"nombre2":"Elizabeth",
+	"apellido2":"Portilla",
+	"hobbies2":[
+		"Full Stack Developer",
+		"elizabeth@laboratoria.la"
+		],
+	"nombre3":"Ivan",
+	"apellido3":"Medina",
+	"hobbies3":[
+		"Back End Developer",
+		"ivan@laboratoria.la"
+		]
+
+}
+
